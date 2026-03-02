@@ -1,8 +1,7 @@
 <<<<<<< HEAD
-
-=======
-# Virtual environment
+# Virtual environments
 venv/
+envi/
 
 # Python cache
 __pycache__/
@@ -11,10 +10,8 @@ __pycache__/
 # Executables
 *.exe
 
-# Environment files
+# Environment variables
 .env
+=======
 
-# OS files
-.DS_Store
-Thumbs.db
->>>>>>> 5a1f8ae (Add gitignore and clean repo)
+>>>>>>> d6ab34f (prepare repo cleanup)
